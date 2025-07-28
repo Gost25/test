@@ -13,7 +13,7 @@ chat_id = "-1001977172268"
 alert_link = "https://candidature.1337.ma/users/sign_in"
 
 # رابط API تويتر
-url = f"https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name={username}&count=1"
+url = f"https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name={MohamK260283}&count=1"
 
 # استعلام لتغريدة واحدة
 try:
